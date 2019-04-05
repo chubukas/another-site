@@ -1,2 +1,2 @@
 # another-site
-Html site
+Html site with just css and abit of js
